@@ -12,7 +12,7 @@
 
 This book by Wes McKinney, published by O'Reilly Media. So if you want to More information about the book can be found here. <br/>
 site: <https://shop.oreilly.com/product/0636920023784.do>
-<p><img src="https://covers.oreillystatic.com/images/0636920023784/lrg.jpg" alt="Python for data analysis" style="width:80px;height:120px"></p>
+<p><img src="https://covers.oreillystatic.com/images/0636920023784/lrg.jpg" alt="Python for data analysis" style="width:20px;height:50px"></p>
 
 ---------------------------------------------
 ## DataQuest
@@ -25,5 +25,5 @@ For example.. In Becoming a Data Scientist course have...
 * Step 3: The Command Line
 * etc<br/>
 <br/>
-here is the site. site: <https://www.dataquest.io/>
+here is the site. site: <https://www.dataquest.io>
 
